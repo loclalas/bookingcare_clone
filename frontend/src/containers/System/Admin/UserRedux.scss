@@ -1,0 +1,36 @@
+.user-redux-container {
+  .title {
+  }
+
+  .user-redux-container {
+    .container {
+      .custome-file-img {
+        display: flex;
+      }
+
+      .label-upload {
+        cursor: pointer;
+        background: #ddd;
+        padding: 5px 10px;
+
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+
+      .preview-image {
+        height: 50px;
+        width: 100&;
+        border: 1px solid #ddd;
+        background: center center no-repeat;
+        background-size: contain;
+      }
+
+      .btn-primary,
+      .btn-warning {
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+}

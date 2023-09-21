@@ -1,0 +1,37 @@
+{
+  "homeheader": {
+    "specialty": "Specialty",
+    "health-facilities": "Health Facilities",
+    "doctor": "Doctor",
+    "checkup-package": "Checkup Package",
+    "support": "Support",
+    "find-doctor": "Find Doctor",
+    "pick-clinic": "Pick Clinic",
+    "pick-doctor": "Pick Doctor",
+    "general-health-check": "General Health Check",
+    "medical-background": "Medical Background",
+    "comprehensive-health-care": "Comprehensive Health Care",
+    "specialist-examination": "Specialist Examination",
+    "remote-examination": "Remote Examination",
+    "general-examination": "General Examination",
+    "dental-examination": "Dental Examnination",
+    "surgery-package": "Surgery Package",
+    "medical-products": "Medical Products",
+    "welcome": "Welcome, "
+  },
+  "menu": {
+    "admin": {
+      "manage-user": "User",
+      "manage-doctor": "Manage Doctor",
+      "manage-admin": "Manage Admin",
+      "crud": "CRUD",
+      "redux": "CRUD Redux",
+      "clinic": "Clinic",
+      "manage-clinic": "Manage Clinic",
+      "specialty": "Specialty",
+      "manage-specialty": "Manage Specialty",
+      "handbook": "Handbook",
+      "manage-handbook": "Manage Handbook"
+    }
+  }
+}

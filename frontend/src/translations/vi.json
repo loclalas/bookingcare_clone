@@ -1,0 +1,41 @@
+{
+  "homeheader": {
+    "specialty": "Chuyên khoa",
+    "health-facilities": "Cơ sở y tế",
+    "doctor": "Bác sĩ",
+    "checkup-package": "Gói khám",
+    "support": "Hỗ trợ",
+    "find-doctor": "Tìm bác sĩ theo chuyên khoa",
+    "pick-clinic": "Chọn bệnh viện phòng khám",
+    "pick-doctor": "Chọn bác sĩ giỏi",
+    "general-health-check": "Khám sức khỏe tổng quát",
+    "medical-background": "Nền tảng y tế",
+    "comprehensive-health-care": "Chăm sóc sức khỏe toàn diện",
+    "specialist-examination": "Khám Chuyên khoa",
+    "remote-examination": "Khám từ xa",
+    "general-examination": "Khám tổng quát",
+    "dental-examination": "Khám nha khoa",
+    "surgery-package": "Gói Phẫu thuật",
+    "medical-products": "Sản phẩm Y tế",
+    "welcome": "Xin chào, "
+  },
+
+  "menu": {
+    "admin": {
+      "manage-user": "Người dùng",
+      "manage-doctor": "Quản lý bác sĩ",
+      "manage-admin": "Quản lý Admin",
+      "crud": "CRUD",
+      "redux": "CRUD Redux",
+      "clinic": "Phòng khám",
+      "manage-clinic": "Quản lý phòng khám",
+      "specialty": "Chuyên khoa",
+      "manage-specialty": "Quản lý chuyên khoa",
+      "handbook": "Cẩm nang",
+      "manage-handbook": "Quản lý cẩm nang"
+    },
+    "doctor": {
+      "manage-schedule": "Quản lý kế hoạch khám bệnh"
+    }
+  }
+}
